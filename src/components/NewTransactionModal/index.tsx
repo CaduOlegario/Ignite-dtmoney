@@ -10,7 +10,7 @@ export function NewTransactionModal({isOpen, onRequestClose}: NewTransactionModa
 
   return (
     <Modal isOpen={isOpen} onRequestClose={onRequestClose}>
-      <h2>Cadastrar transação</h2>
+      <h2>Cadastrar Transação</h2>
     </Modal>
   )
 }
